@@ -11,7 +11,7 @@ Reverses the order of the numbers input
 Removes vowels from a string
 
 ## prime-number-check.cpp
-Determines if the input number is a prime number up to 10,008
+Determines if the input number is a prime number, currently limited to any number up to 10,008  
 Limit can be modified to go higher if needed
 
 ## string-encoding.cpp
