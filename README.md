@@ -1,5 +1,5 @@
 # cpp-projects
-Some C++ programs I've written for college projects
+C++ Projects I did while attending NorthWest Arkansas Community College
 
 ## right-triangle.cpp
 Determines if the sides input equal a right triangle
